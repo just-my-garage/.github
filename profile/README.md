@@ -1,5 +1,5 @@
-## GARAGE 👋
-Hi there, this is an organization (garage) solely for MasterTraits use
+## MY CLUTTERED GARBAGE 👋
+Hi there, this is an organization (garbage) solely for MasterTraits use
 
 Particular reasons?
 - Just repos that I want to store excluded from my main profile
